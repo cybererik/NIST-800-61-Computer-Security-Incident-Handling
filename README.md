@@ -52,7 +52,7 @@ According to **NIST 800-61**, an incident response (IR) plan is a documented set
 - It should include procedures for incident **detection, analysis, containment, eradication, recovery**, and **post-incident activity**.
 - It should also include **roles and responsibilities**, **communication channels**, and methods for **measuring the effectiveness** of the plan.
 
-📄 **Sample Incident Response Plan** – [Click to View](xxxxxxxxxxxxxxxxxxx)
+📄 **Sample Incident Response Plan** – [Click to View](https://github.com/cybererik/NIST-800-61-Computer-Security-Incident-Handling/blob/main/Erik%20Vargas%20of%20Security%20Incident%20Response%20Plan%20(1).pdf)
 
 ---
 
